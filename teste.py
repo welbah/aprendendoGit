@@ -8,5 +8,3 @@ def main():
 main()
 
 print("A alteração do codigo")
-print("A alteração do codigo 2")
-print("A alteração do codigo 2")
